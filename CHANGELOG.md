@@ -1,2 +1,1 @@
-- Fixed missing language key in Controls menu
-- Fixed harmless log warnings about refmaps
+- Fixed Dispenser and Dropper layout being off by one pixel
