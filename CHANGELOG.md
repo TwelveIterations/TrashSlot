@@ -1,1 +1,1 @@
-- Updated to Minecraft 26.3
+- Fixed Dispenser and Dropper layout being off by one pixel
