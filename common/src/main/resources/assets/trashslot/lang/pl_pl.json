@@ -3,6 +3,6 @@
   "key.trashslot.toggle": "Pokaż/ukryj TrashSlot",
   "key.trashslot.delete": "Usuń przedmiot",
   "key.trashslot.delete_all": "Usuń wszystkie danego typu",
-  "key.categories.trashslot": "TrashSlot",
+  "key.category.trashslot.default": "TrashSlot",
   "trashslot.configuration.instantDeletion": "Natychmiastowe usuwanie"
 }

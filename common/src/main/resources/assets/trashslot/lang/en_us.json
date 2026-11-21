@@ -5,7 +5,6 @@
   "key.trashslot.delete": "Delete Item",
   "key.trashslot.delete_all": "Delete All Items of Type",
   "key.category.trashslot.default": "TrashSlot",
-  "key.categories.trashslot.default": "TrashSlot",
   "trashslot.config.instantDeletion": "Instant Deleting",
   "trashslot.configuration.title": "TrashSlot",
   "trashslot.configuration.instantDeletion": "Instant Deletion",
