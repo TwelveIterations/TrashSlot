@@ -4,7 +4,7 @@
     "key.trashslot.toggle_lock": "TrashSlot 잠금/해제",
     "key.trashslot.delete": "아이템 삭제",
     "key.trashslot.delete_all": "동일 유형의 모든 아이템 삭제",
-    "key.categories.trashslot": "TrashSlot",
+    "key.category.trashslot.default": "TrashSlot",
     "trashslot.configuration.title": "TrashSlot",
     "trashslot.configuration.instantDeletion": "즉시 삭제",
     "trashslot.configuration.instantDeletion.tooltip": "이 옵션을 활성화하면, 삭제 슬롯이 창작 모드처럼 아이템을 즉시 삭제합니다.",

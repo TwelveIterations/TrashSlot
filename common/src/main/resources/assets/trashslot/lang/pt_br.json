@@ -3,8 +3,7 @@
     "key.trashslot.toggle": "Mostrar/ocultar lixeira",
     "key.trashslot.delete": "Apagar item",
     "key.trashslot.delete_all": "Excluir todos os itens do tipo",
-    "key.categories.trashslot": "TrashSlot",
+    "key.category.trashslot.default": "TrashSlot",
     "trashslot.configuration.title": "TrashSlot",
     "trashslot.configuration.instantDeletion": "Exclusão instantânea"
   }
-  

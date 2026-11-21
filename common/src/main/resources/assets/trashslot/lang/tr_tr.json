@@ -4,7 +4,7 @@
   "key.trashslot.toggle_lock": "ÇöpYuvasını Kilitle/Kilidini Aç",
   "key.trashslot.delete": "Eşya Sil",
   "key.trashslot.delete_all": "Türdeki Tüm Eşyaları Sil",
-  "key.categories.trashslot": "ÇöpYuvası",
+  "key.category.trashslot.default": "ÇöpYuvası",
   "trashslot.configuration.title": "ÇöpYuvası",
   "trashslot.configuration.instantDeletion": "Anında Silme",
   "trashslot.configuration.instantDeletion.tooltip": "Bu, Yaratıcı Mod'a benzer şekilde silme yuvasının eşyaları anında silmesini sağlar.",

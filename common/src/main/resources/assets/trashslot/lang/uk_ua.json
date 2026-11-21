@@ -5,7 +5,6 @@
   "key.trashslot.delete": "Видалити предмет",
   "key.trashslot.delete_all": "Видалити всі предмети цього типу",
   "key.category.trashslot.default": "TrashSlot",
-  "key.categories.trashslot.default": "TrashSlot",
   "trashslot.config.instantDeletion": "Миттєве видалення",
   "trashslot.configuration.title": "TrashSlot",
   "trashslot.configuration.instantDeletion": "Миттєве видалення",
