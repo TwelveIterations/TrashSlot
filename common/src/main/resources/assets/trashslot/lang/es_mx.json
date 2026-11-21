@@ -4,5 +4,5 @@
   "key.trashslot.toggle": "Ranura de Palanca",
   "key.trashslot.delete": "Borrar los elementos",
   "key.trashslot.delete_all": "Borrar todos los elementos",
-  "key.categories.trashslot": "Tacho de Basura"
+  "key.category.trashslot.default": "Tacho de Basura"
 }

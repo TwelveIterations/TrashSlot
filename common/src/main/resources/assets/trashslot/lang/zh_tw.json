@@ -4,7 +4,7 @@
   "key.trashslot.toggle_lock": "鎖定／解鎖垃圾欄位",
   "key.trashslot.delete": "刪除物品",
   "key.trashslot.delete_all": "刪除所有同類型物品",
-  "key.categories.trashslot": "垃圾欄位",
+  "key.category.trashslot.default": "垃圾欄位",
   "trashslot.configuration.title": "垃圾欄位",
   "trashslot.configuration.instantDeletion": "立即刪除",
   "trashslot.configuration.instantDeletion.tooltip": "這會使刪除欄位立即刪除物品，類似於創造模式。",

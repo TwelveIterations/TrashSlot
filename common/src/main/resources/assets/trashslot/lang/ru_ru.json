@@ -4,7 +4,7 @@
   "key.trashslot.toggle_lock": "Заблокировать/разблокировать слот для мусорки",
   "key.trashslot.delete": "Удалить предмет",
   "key.trashslot.delete_all": "Удалить все типы предметов",
-  "key.categories.trashslot": "TrashSlot",
+  "key.category.trashslot.default": "TrashSlot",
   "trashslot.config.instantDeletion": "Мгновенное удаление",
   "trashslot.configuration.title": "TrashSlot",
   "trashslot.configuration.instantDeletion": "Мгновенное удаление",
